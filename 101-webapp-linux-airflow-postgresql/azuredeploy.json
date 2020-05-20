@@ -157,7 +157,7 @@
       ],
       "properties": {
         "siteConfig": {
-          "linuxFxVersion": "DOCKER|puckel/docker-airflow:latest"
+          "linuxFxVersion": "DOCKER|monk666nevru/publicrepo1:latest"
         },
         "name": "[parameters('siteName')]",
         "serverFarmId": "[variables('hostingPlanName')]",
